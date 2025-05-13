@@ -14,7 +14,7 @@ const posts = [
             profilePic: `images/marwan.2.jpg`,
             tweetText: `Hey everyone! Welcome to my instagram clone, a space built from scracth to mirror the experience we all love.Feel free to explore, post, and share your thoughts.Your feedback means a lot as i keep improving it!`,
         },],
-        likes: 21567  ,
+        likes: 21568  ,
         retweets: 846,
          isLiked: false,
         isRetweeted: false,
